@@ -1,0 +1,16 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "My first twitter bot using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anne Andy",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^0.6.2",
+    "twit": "^2.2.9",
+    "xlsx": "^0.11.5"
+  }
+}

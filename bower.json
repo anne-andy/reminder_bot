@@ -1,0 +1,23 @@
+{
+  "name": "twitter_bot",
+  "description": "My first twitter bot using node.js",
+  "main": "index.js",
+  "authors": [
+    "Anne Andy"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "fistbot"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "js-xlsx": "^0.11.5"
+  }
+}
