@@ -18,9 +18,9 @@ hosted somewhere beyond your local machine, preferably via a free cloud-based Pa
 Built With
 ---------
 
-Node.js runtime environment
-MS Excel
-Heroku cloud PaaS
+- Node.js runtime environment
+- MS Excel
+- Heroku cloud PaaS
 
 Acknowledgments
 ----------------
